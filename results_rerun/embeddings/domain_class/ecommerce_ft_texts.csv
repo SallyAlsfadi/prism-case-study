@@ -1,0 +1,7 @@
+req_id,text
+ecommerce_ft_001,The product shall operate in offline mode whenever internet connection is unavailable.
+ecommerce_ft_002,The product shall allow the user to view previously downloaded search results  CMA reports  and appointments.
+ecommerce_ft_003,The product shall retain user preferences in the event of a failure.
+ecommerce_ft_004,The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.
+ecommerce_ft_005,The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data.  The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.
+ecommerce_ft_006,The product shall be robust.The product shall have fault avoidance based on standards adoption.

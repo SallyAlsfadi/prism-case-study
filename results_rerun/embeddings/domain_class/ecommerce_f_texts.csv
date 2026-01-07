@@ -1,0 +1,86 @@
+req_id,text
+ecommerce_f_001,The product shall allow the user to save the property search results.
+ecommerce_f_002,The Disputes System must allow the user to create three unique types of ticket retrieval requests.  The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.
+ecommerce_f_003,The adjuster shall review the collision estimate.
+ecommerce_f_004,The product shall record meeting entries.
+ecommerce_f_005,The product will notify employees of meeting invitations.
+ecommerce_f_006,The product shall have the ability to send meeting reminders to employees.
+ecommerce_f_007,The product shall assign the organizers contact information to each meeting they create.
+ecommerce_f_008,The product will record meeting acknowledgements.
+ecommerce_f_009,The product shall store new conference rooms.
+ecommerce_f_010,The product shall update existing conference rooms.
+ecommerce_f_011,The product will be able to delete conference rooms.
+ecommerce_f_012,The product shall be able to store new room equipment.
+ecommerce_f_013,The product will update existing room equipment.
+ecommerce_f_014,The product shall be able to delete room equipment.
+ecommerce_f_015,The product shall allow an organizer to invite other employees to meetings.
+ecommerce_f_016,The product shall record the transportation status of equipment reserved.
+ecommerce_f_017,The product shall display a map of the company building showing conference room locations.
+ecommerce_f_018,The product shall record updated meeting agendas.
+ecommerce_f_019,The product shall send a meeting confirmation to the meeting organizer.
+ecommerce_f_020,The product shall display room equipment according to search parameters.
+ecommerce_f_021,The product shall display conference rooms according to search parameters.
+ecommerce_f_022,The product shall record different meeting types.
+ecommerce_f_023,The product shall record all the equipment that has been reserved.
+ecommerce_f_024,The product shall notify building personnel of equipment transport requests.
+ecommerce_f_025,The product will allow priviledged users to view meeting schedules in multiple reporting views.
+ecommerce_f_026,The product shall be able to send meeting notifications via different kinds of end-user specified methods.
+ecommerce_f_027,The product shall have a customizable Look and Feel.
+ecommerce_f_028,The product shall have an intuitive user interface.
+ecommerce_f_029,The product will display an available status for unreserved conference rooms.
+ecommerce_f_030,The System shall allow generation of Inventory Quantity Adjustment documents on demand.
+ecommerce_f_031,The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.
+ecommerce_f_032,The System shall allow entering  storing and modifying product formulas.
+ecommerce_f_033,Product formulas shall allow use of semi-products  which have own formulas.
+ecommerce_f_034,Product formula ingredients shall allow defining substitutionary ingredients.
+ecommerce_f_035,Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.
+ecommerce_f_036,Formula substitutionary ingredients shall be kept in persisted order
+ecommerce_f_037,Product shall allow entering  storing and modifying product menus used by POS terminals.
+ecommerce_f_038,PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.
+ecommerce_f_039,PME Subsystem shall allow keeping submenus within menus and products within submenus in a managed and persisted order.
+ecommerce_f_040,PME Subsystem shall allow for a product to exist in more than one submenu
+ecommerce_f_041,The System shall generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.
+ecommerce_f_042,The System shall generate Inventory Quantity Adjustment document automatically when daily Product Sales data is available.
+ecommerce_f_043,shall be able to stream purchased movie via Windows Media Player  for up to 2 days aftere purchase date.
+ecommerce_f_044,Website shall allow customers to add their own movie review for a selected movie.
+ecommerce_f_045,Website shall allow the Izogn administrator to approve a review posted by a customer.
+ecommerce_f_046,Only registered customers can purchase streaming movies.
+ecommerce_f_047,Movies can only be streamed if the customer has purchased a movie  and is within the 2-day time period to stream the movie.
+ecommerce_f_048,The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.
+ecommerce_f_049,The product shall maintain a list of players.
+ecommerce_f_050,The product shall allow a user to identify himself or herself as a player.
+ecommerce_f_051,Once a game has been initiated  the product shall make the players assigned to the game unavailable for selection from the list of players.
+ecommerce_f_052,The product shall allow a user to remove himself or herself from the list of players at any time.
+ecommerce_f_053,The product shall make inactive players unavailable for selection from the list of players.
+ecommerce_f_054,The product shall remove players who have been inactive for 24 hours from the list of players.
+ecommerce_f_055,The product shall allow a player to initiate a game by selecting another available player from the list of players.
+ecommerce_f_056,Once a game is initiated  the product shall display a defensive grid to each player
+ecommerce_f_057,Once a game is initiated  the product shall display an offensive grid to each player.
+ecommerce_f_058,The product shall prevent a player from viewing the offensive or defensive grids of the other player.
+ecommerce_f_059,Once a game is initiated  the product shall allow each player to position their 5 ships on their respective defensive grids.
+ecommerce_f_060,The product shall allow a player to position ships horizontally on their grid.
+ecommerce_f_061,The product shall allow the player to position ships vertically on their grid.
+ecommerce_f_062,The product shall allow the player to position ships diagonally on their grid
+ecommerce_f_063,The product shall prevent the player from overlapping ships on their grid.
+ecommerce_f_064,When both players have positioned their 5 ships on their defensive grids  the product shall define the status of each player for the first turn.
+ecommerce_f_065,For each turn  the product shall identify one player as offensive status and one player as defensive status.
+ecommerce_f_066,The product shall maintain the status of each player for a turn  either offensive or defensive.
+ecommerce_f_067,At the start of each turn  the product shall notify each player of his or her status.
+ecommerce_f_068,For each turn  the product shall allow the offensive player to define a shot.
+ecommerce_f_069,For each shot  the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.
+ecommerce_f_070,For each shot  the product shall notify the players whether the shot was a hit or miss.
+ecommerce_f_071,For each shot  the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.
+ecommerce_f_072,For each shot  the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.
+ecommerce_f_073,When the hit results in sinking a ship  the product shall notify the players that the ship was sunk.
+ecommerce_f_074,When the hit results in sinking a ship  the product shall mark the ship as sunk on the defensive grid of the defensive player.
+ecommerce_f_075,When the hit results in sinking a ship  the product shall indicate the type of ship sunk on the defensive grid of the defensive player.
+ecommerce_f_076,When the hit results in sinking a ship  the product shall mark the ship as sunk on the offensive grid of the offensive player.
+ecommerce_f_077,If the shot was marked as a hit  the product shall allow the offensive player to define a shot.
+ecommerce_f_078,If the shot was marked as a miss  the product shall change the status of the offensive player to defensive
+ecommerce_f_079,If the shot was marked as a miss  the product shall change the status of the defensive player to offensive
+ecommerce_f_080,The product shall continue to assign turns until the game is ended.
+ecommerce_f_081,The product shall end a game when a hit by the offensive player results in sinking the last of the defensive players ships  which had not been previously marked as sunk.
+ecommerce_f_082,The product shall allow a player to end a game at any time during the game.
+ecommerce_f_083,When a game is ended  the product shall notify the players that the game is ended.
+ecommerce_f_084,When a game is ended  the product shall allow each player to identify himself or herself as an available player in the list of players.
+ecommerce_f_085,When a game is ended  the product shall allow each player to remove himself or herself from the list of players.

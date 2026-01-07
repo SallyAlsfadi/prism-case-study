@@ -1,0 +1,16 @@
+req_id,text
+ecommerce_pe_001,The product shall respond fast to keep up-to-date data in the display.
+ecommerce_pe_002,The product shall generate a CMA report in an acceptable time.
+ecommerce_pe_003,The product shall synchronize contacts and appointments in an acceptable time.
+ecommerce_pe_004,The product shall synchronize with the office system every hour.
+ecommerce_pe_005,Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.
+ecommerce_pe_006,Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.
+ecommerce_pe_007,Izogn Administrator must be able to update the category listings on the website within 2 minutes.
+ecommerce_pe_008,The product shall able to handle a large number of games simultaneously.
+ecommerce_pe_009,The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.
+ecommerce_pe_010,The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications
+ecommerce_pe_011,The product shall provide Multi-threading and Load Balancing.The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic.
+ecommerce_pe_012,The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds
+ecommerce_pe_013,The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.
+ecommerce_pe_014,The product shall provide Dynamic Change Support and Transparent resource addition.The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.
+ecommerce_pe_015,The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.not be more than 10 seconds.

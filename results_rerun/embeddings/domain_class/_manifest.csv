@@ -1,0 +1,13 @@
+input_csv,output_npy,texts_csv,rows,dim,dtype
+results_rerun/split_by_class-system/ecommerce_a.csv,results_rerun/embeddings/domain_class/ecommerce_a.npy,results_rerun/embeddings/domain_class/ecommerce_a_texts.csv,7,1024,float32
+results_rerun/split_by_class-system/ecommerce_f.csv,results_rerun/embeddings/domain_class/ecommerce_f.npy,results_rerun/embeddings/domain_class/ecommerce_f_texts.csv,85,1024,float32
+results_rerun/split_by_class-system/ecommerce_ft.csv,results_rerun/embeddings/domain_class/ecommerce_ft.npy,results_rerun/embeddings/domain_class/ecommerce_ft_texts.csv,6,1024,float32
+results_rerun/split_by_class-system/ecommerce_l.csv,results_rerun/embeddings/domain_class/ecommerce_l.npy,results_rerun/embeddings/domain_class/ecommerce_l_texts.csv,4,1024,float32
+results_rerun/split_by_class-system/ecommerce_lf.csv,results_rerun/embeddings/domain_class/ecommerce_lf.npy,results_rerun/embeddings/domain_class/ecommerce_lf_texts.csv,15,1024,float32
+results_rerun/split_by_class-system/ecommerce_mn.csv,results_rerun/embeddings/domain_class/ecommerce_mn.npy,results_rerun/embeddings/domain_class/ecommerce_mn_texts.csv,9,1024,float32
+results_rerun/split_by_class-system/ecommerce_o.csv,results_rerun/embeddings/domain_class/ecommerce_o.npy,results_rerun/embeddings/domain_class/ecommerce_o_texts.csv,29,1024,float32
+results_rerun/split_by_class-system/ecommerce_pe.csv,results_rerun/embeddings/domain_class/ecommerce_pe.npy,results_rerun/embeddings/domain_class/ecommerce_pe_texts.csv,15,1024,float32
+results_rerun/split_by_class-system/ecommerce_po.csv,results_rerun/embeddings/domain_class/ecommerce_po.npy,results_rerun/embeddings/domain_class/ecommerce_po_texts.csv,1,1024,float32
+results_rerun/split_by_class-system/ecommerce_sc.csv,results_rerun/embeddings/domain_class/ecommerce_sc.npy,results_rerun/embeddings/domain_class/ecommerce_sc_texts.csv,10,1024,float32
+results_rerun/split_by_class-system/ecommerce_se.csv,results_rerun/embeddings/domain_class/ecommerce_se.npy,results_rerun/embeddings/domain_class/ecommerce_se_texts.csv,18,1024,float32
+results_rerun/split_by_class-system/ecommerce_us.csv,results_rerun/embeddings/domain_class/ecommerce_us.npy,results_rerun/embeddings/domain_class/ecommerce_us_texts.csv,29,1024,float32
