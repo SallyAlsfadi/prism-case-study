@@ -1,0 +1,41 @@
+{
+  "generated_at_utc": "2026-01-07T14:00:49.909078Z",
+  "config_path": "config/config.yaml",
+  "dataset_path": "data/requirements.csv",
+  "dataset_hash_sha256": "2d71c9c0fffae25fda0a9bb08dc91ddd299d60a6c4e6cc9c97f2efd48fa19ba1",
+  "shape": {
+    "rows": 303,
+    "cols": 3
+  },
+  "columns": [
+    "text",
+    "class",
+    "system"
+  ],
+  "missing_required_columns": [],
+  "missing_values_total": 0,
+  "duplicates_exact_text_total": 1,
+  "duplicates_exact_text_within_system": 1,
+  "system_counts": {
+    "ecommerce": 228,
+    "banking": 26,
+    "education": 25,
+    "field_service": 19,
+    "healthcare": 5
+  },
+  "class_counts": {
+    "F": 126,
+    "US": 35,
+    "O": 34,
+    "SE": 25,
+    "PE": 25,
+    "LF": 16,
+    "SC": 11,
+    "MN": 10,
+    "FT": 8,
+    "A": 7,
+    "L": 5,
+    "PO": 1
+  },
+  "schema_ok": true
+}

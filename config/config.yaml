@@ -1,0 +1,17 @@
+project:
+  name: prism-case-study
+  seed: 42
+
+paths:
+  data_csv: data/requirements.csv
+  results_dir: results
+  logs_dir: results/logs
+
+data_expectations:
+  required_columns: ["text", "class", "system"]
+  min_rows: 1
+
+integrity:
+  hash_algorithm: sha256
+  report_json: results/logs/data_integrity_report.json
+  report_md: results/logs/data_integrity_report.md
