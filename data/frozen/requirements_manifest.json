@@ -1,0 +1,23 @@
+{
+  "raw_input": "data/requirements.csv",
+  "raw_sha256": "2d71c9c0fffae25fda0a9bb08dc91ddd299d60a6c4e6cc9c97f2efd48fa19ba1",
+  "frozen_output": "data/frozen/requirements_frozen.csv",
+  "n_rows_raw": 303,
+  "n_rows_frozen": 303,
+  "schema_raw": [
+    "text",
+    "class",
+    "system"
+  ],
+  "schema_frozen": [
+    "req_id",
+    "text",
+    "system",
+    "class",
+    "source"
+  ],
+  "notes": [
+    "Only deterministic cleaning (strip + lower labels + collapse whitespace).",
+    "No semantic changes, no deduplication, no merging."
+  ]
+}
