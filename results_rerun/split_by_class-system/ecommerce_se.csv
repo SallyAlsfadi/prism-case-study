@@ -1,0 +1,19 @@
+req_id,text
+ecommerce_se_001,The product shall ensure that it can only be accessed by authorized users.  The product will be able to distinguish between authorized and unauthorized users in all access attempts
+ecommerce_se_002,The product shall prevent its data from incorrect data being introduced.
+ecommerce_se_003,The product shall free of computer viruses.
+ecommerce_se_004,The product shall ensure that only company employees or external users with company-approved user IDs may have product access.  100% of all logons shall be by either company employees or external users with company-approved user IDs.
+ecommerce_se_005,The product shall ensure that the databases data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.
+ecommerce_se_006,The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systems data shall remain 100% uncorrupted each time malicious data is input into the product.
+ecommerce_se_007,The product shall have the ability to receive automatic software updates as new threats emerge.  100% of customers will be able to receive automatic software updates transmitted to the installed product.
+ecommerce_se_008,Only registered customers can purchase streaming movies.
+ecommerce_se_009,A customer can only stream a movie if they purchased it  and are within the 2 day viewing period.
+ecommerce_se_010,Only authorized personnel can access customer records in the database.
+ecommerce_se_011,All customer information will be stored on a secure database  accessible only to authorized personnel.
+ecommerce_se_012,The product shall provide players no access to information that might reveal the identity of another player
+ecommerce_se_013,The product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots.
+ecommerce_se_014,The product shall ensure that only supervisors can enter a callers schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.
+ecommerce_se_015,The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.
+ecommerce_se_016,The product shall have security.The product shall provide authentication  and authorization.
+ecommerce_se_017,The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.
+ecommerce_se_018,Each team owner will need to use a username and password in order to be authenticated to reach the team owners page

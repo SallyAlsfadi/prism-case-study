@@ -1,0 +1,3 @@
+req_id,text
+banking_ft_001,The website shall continue to operate if the payment gateway goes down.
+banking_ft_002,The product shall be robust with fault tolerance.The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.

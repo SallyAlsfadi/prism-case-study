@@ -1,0 +1,6 @@
+req_id,text
+banking_se_001,If a user account is revoked  it can only be re-instantiated by the System Administrator.
+banking_se_002,Only the System Administrator shall be able to reset a revoked user logon account
+banking_se_003,All credit card information will be secured on the server  and only accessible by authorized Izogn administrators.  Information will be encrypted in the database.
+banking_se_004,All credit card information will be encrypted in the database.
+banking_se_005,The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.

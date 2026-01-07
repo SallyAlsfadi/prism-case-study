@@ -1,0 +1,19 @@
+req_id,text
+education_f_001,Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort
+education_f_002,A non-clinical class shall specify the course name  lecture room requirements  and instructor needs.
+education_f_003,A clinical class shall specify the course name  lecture room requirements  clinical site needs  lecture instructor needs  and clinical lab instructor needs.
+education_f_004,A clinical lab section shall include the clinical site name  the class  instructor  day and time of the lab.
+education_f_005,Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.
+education_f_006,The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.
+education_f_007,The system shall allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.
+education_f_008,A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.
+education_f_009,A staff member shall have the ability to manage the progress of a part time student  which includes modifying their sequence of classes and timeline of classes.
+education_f_010,The system shall be able to display a printable summary for individual clinical labs  which will include (but not be limited to) class name  class number  lab section  listing of students enrolled  instructor  day(s)  time  and location.
+education_f_011,The system shall be able to display a printable summary for individual nursing students  which will include (but not be limited to) student name  student ID  admission date  classes  credits  GPA  and the cohort that the student is enrolled in.
+education_f_012,The system shall contain contact information (e-mail and phone number) for all people relevant to the system  including (but not limited to) staff members  students  lecture instructors  clinical lab instructors  and clinical site administrators.
+education_f_013,The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohorts program of study and changes to a given weeks schedule (lab cancelled this week due to instructor illness).
+education_f_014,The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a students status from full time to part time and moving a student to a different clinical section.
+education_f_015,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section  including the clinical site name  the department/section for the lab  the class  instructor  day and time of lab  and contact information.
+education_f_016,Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student  including student ID  student name  phone number  e-mail  status (full time or part time)  and program of study.
+education_f_017,The adjuster shall enter the preferred repair facility on the estimate assignment.
+education_f_018,The adjuster shall be able to override the preferred repair facitlity on the estimate assignment.

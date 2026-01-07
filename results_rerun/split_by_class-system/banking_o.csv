@@ -1,0 +1,3 @@
+req_id,text
+banking_o_001,The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database
+banking_o_002,Website must interface with the CyberSource API to process credit card transactions.

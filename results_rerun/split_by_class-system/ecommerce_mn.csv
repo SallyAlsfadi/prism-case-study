@@ -1,0 +1,10 @@
+req_id,text
+ecommerce_mn_001,The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.
+ecommerce_mn_002,The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product�s software code.
+ecommerce_mn_003,Maintenance releases will be offered to customers once a year.  The releases shall take no longer than 5 minutes for 80% of the customer base to install.
+ecommerce_mn_004,The customer shall be able to easily integrate new building maps with the product throughout the products lifecycle.  Integration of new maps with the product shall be possible with little to no support from product support staff.
+ecommerce_mn_005,The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.
+ecommerce_mn_006,The product shall be internet browser independent.The product must run using Internet Explorer and Netscape Navigator.
+ecommerce_mn_007,: The product shall continue to operate during upgrade  change or new resource addition.The product shall be able to continue to operate with no interruption in service due to new resource additions.
+ecommerce_mn_008,The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.
+ecommerce_mn_009,The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.

@@ -1,0 +1,30 @@
+req_id,text
+ecommerce_o_001,The product must support Internet Explorer 5.5 and above.
+ecommerce_o_002,The product must support Mozilla Firefox 1.0 and above.
+ecommerce_o_003,The product shall interface with the Choice Parts System.  This provides the feed of recycled parts data.
+ecommerce_o_004,The product shall run on the existing hardware for all environments.
+ecommerce_o_005,The product shall adhere to the corporate Architecture guidelines
+ecommerce_o_006,For estimators  the product shall be able to be operated in a repair facility during dirty and noisy conditions.
+ecommerce_o_007,The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.
+ecommerce_o_008,The maintenance of the product will fall within the established corporate maintenance windows.
+ecommerce_o_009,The product shall be supported using the corporate support center.
+ecommerce_o_010,Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.
+ecommerce_o_011,The product must work with most database management systems (DBMS) on the market  whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network.
+ecommerce_o_012,The product will function alongside server software on any operating system where the Java runtime can be installed.
+ecommerce_o_013,The product will require collaboration with a database management system (DBMS).  The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.
+ecommerce_o_014,The product must make use of web/application server technology.  Open source examples include Apache web server  Tomcat  and the JBoss application server.
+ecommerce_o_015,A database management system such as Oracle  DB2  MySql or HSQL will need to be integrated with the product.
+ecommerce_o_016,The product shall be used in office environments.
+ecommerce_o_017,The product must be able to interface with any HTML browser.  The product shall transmit data between the user and the product without problems. The product shall display HTML properly in 80% of all HTML browsers tested (minimum is to test 8 browsers).
+ecommerce_o_018,The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.
+ecommerce_o_019,The product must be able to interface with various email servers. The product shall be able to send email.
+ecommerce_o_020,The product shall be available for distribution via the Internet as a binary or ZIP file.
+ecommerce_o_021,The product shall be available for distribution as a packaged CD.
+ecommerce_o_022,The product will be available for licensing as a one-server  two-five servers  or five-or-more servers license.
+ecommerce_o_023,The product is expected to integrate with multiple database management systems.  The product will operate with Oracle  SQL Server  DB2  MySQL  HSQL  and MS Access.
+ecommerce_o_024,The product shall be able to be installed in any operating environment within 2 days.
+ecommerce_o_025,The product must be developed with the J2SE/J2EE programming language libraries
+ecommerce_o_026,The product shall be able to be installed in the specified environment within 1 working day.
+ecommerce_o_027,The product shall be platform independent.The product shall enable access to any type of development environment and platform.
+ecommerce_o_028,The product shall interface CSR and Datastream.The product shall exchange messages between CSR and EAM on a real time basis without any direct interfaces between two systems.
+ecommerce_o_029,The RFS system should be able to easily interface with the BDW environment  in order to load the data.7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. The data will be as of October month-end.         Test files (7) shall be loaded up to 5 times throughout the year  from the BDW.

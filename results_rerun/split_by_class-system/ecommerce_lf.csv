@@ -1,0 +1,16 @@
+req_id,text
+ecommerce_lf_001,The product shall have a consistent color scheme and fonts.
+ecommerce_lf_002,The product shall comply with corporate User Interface Guidelines
+ecommerce_lf_003,The product shall comply with corporate color scheme
+ecommerce_lf_004,The appearance of the product shall appear professional
+ecommerce_lf_005,The product shall have a conservative and professional appearance.
+ecommerce_lf_006,The product shall simulate the look of ships at sea.
+ecommerce_lf_007,The product shall display the grids within a circle as a view from a periscope.
+ecommerce_lf_008,The product shall display each type of ship in a grid using an image of the specific type of ship.
+ecommerce_lf_009,When the offensive player takes a shot  the product shall simulate the sound of a ship at sea.
+ecommerce_lf_010,When a shot is marked as a miss  the product shall simulate the sound of a shot missing its target.
+ecommerce_lf_011,When a shot is marked as a hit  the product shall simulate the sound of a shot hitting its target.
+ecommerce_lf_012,When a ship is sunk  the product shall simulate the sound of a sinking ship.
+ecommerce_lf_013,The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.
+ecommerce_lf_014,The product shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface.
+ecommerce_lf_015,The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group  prior to implementation. The remaining 5% will be corrected and approved within one month of product release.

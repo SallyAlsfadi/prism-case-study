@@ -1,0 +1,8 @@
+req_id,text
+ecommerce_a_001,The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.
+ecommerce_a_002,The product shall be available for use 24 hours per day  365 days  per year
+ecommerce_a_003,The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule.
+ecommerce_a_004,The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.
+ecommerce_a_005,Aside from server failure  the software product shall achieve 99.99% up time.
+ecommerce_a_006,The product shall be available 24 hours per day  seven days per week.
+ecommerce_a_007,The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.

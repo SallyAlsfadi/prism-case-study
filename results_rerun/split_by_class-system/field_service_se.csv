@@ -1,0 +1,2 @@
+req_id,text
+field_service_se_001,Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.

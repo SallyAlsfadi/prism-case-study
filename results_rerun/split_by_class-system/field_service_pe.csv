@@ -1,0 +1,4 @@
+req_id,text
+field_service_pe_001,The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds
+field_service_pe_002,The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.
+field_service_pe_003,System shall let existing customers log into the website with their email address and password in under 5 seconds.
