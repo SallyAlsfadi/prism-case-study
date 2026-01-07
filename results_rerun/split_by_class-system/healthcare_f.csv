@@ -1,4 +1,0 @@
-req_id,text
-healthcare_f_001,The system shall be able to call the seller or buyer to schedule an appointment
-healthcare_f_002,The system shall notify the realtor when a seller or buyer responds to an appointment request
-healthcare_f_003,The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system.  A detailed history of the actions taken on the case  including the date and the user that performed the action must be maintained for auditing purposes.

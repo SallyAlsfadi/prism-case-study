@@ -1,5 +1,0 @@
-req_id,text
-banking_pe_001,System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.
-banking_pe_002,System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.
-banking_pe_003,When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.
-banking_pe_004,The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.
