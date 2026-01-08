@@ -1,0 +1,21 @@
+{
+  "input": "results_rerun/redundancy/resolved_requirements.csv",
+  "model": "intfloat/e5-large",
+  "tau_cap": 5.0,
+  "ewm_stabilization": {
+    "kappa": 1.5,
+    "wmin": 0.2,
+    "wmax": 0.8
+  },
+  "per_system": {
+    "ecommerce": {
+      "VB_size": 10,
+      "SB_size": 32,
+      "Q": 1.0220759113865556,
+      "shrink_a": 0.04415182277311125,
+      "w_L": 0.8,
+      "w_M": 0.2
+    }
+  },
+  "banks_root": "/Users/salisfadi/prism-case-study/results_rerun/specificity/banks"
+}

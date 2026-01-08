@@ -1,0 +1,15 @@
+{
+  "join_on_class": true,
+  "counts": {
+    "specificity_rows": 213,
+    "volatility_rows": 213,
+    "criticality_rows": 213,
+    "intersection_keys": 213,
+    "merged_rows": 213
+  },
+  "examples_missing": {
+    "only_specificity": [],
+    "only_volatility": [],
+    "only_criticality": []
+  }
+}

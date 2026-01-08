@@ -1,0 +1,214 @@
+req_id,system,class,C,S,V,text
+ecommerce_a_001,ecommerce,a,0.5,0.5800965932705279,0.8124999999989845,The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.
+ecommerce_a_002,ecommerce,a,0.5,0.9000788177655263,0.8124999999983594,The product shall be available for use 24 hours per day  365 days  per year
+ecommerce_a_003,ecommerce,a,0.5,0.900076323747303,0.1874999999997656,The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule.
+ecommerce_a_004,ecommerce,a,0.5,0.5801049114015826,0.8124999999989845,The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.
+ecommerce_a_005,ecommerce,a,0.5,0.5800634191701579,0.8124999999989845,Aside from server failure  the software product shall achieve 99.99% up time.
+ecommerce_a_007,ecommerce,a,0.5,0.9002435048127019,0.5624999999995969,The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.
+ecommerce_f_001,ecommerce,f,0.3278922202505221,0.539958543032735,0.2965984131457142,The product shall allow the user to save the property search results.
+ecommerce_f_002,ecommerce,f,0.25,0.9000033648324369,0.261380085061702,The Disputes System must allow the user to create three unique types of ticket retrieval requests.  The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio. A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt.
+ecommerce_f_003,ecommerce,f,0.25,0.4200439328270778,0.3321508485956001,The adjuster shall review the collision estimate.
+ecommerce_f_004,ecommerce,f,0.6994136878212709,0.2999144124368808,0.1910828938102454,The product shall record meeting entries.
+ecommerce_f_005,ecommerce,f,0.6512179968257108,0.2599263698818546,0.0940981479237319,The product will notify employees of meeting invitations.
+ecommerce_f_006,ecommerce,f,0.6573333756421663,0.6199274071481654,0.2063244607915948,The product shall have the ability to send meeting reminders to employees.
+ecommerce_f_007,ecommerce,f,0.5439338896944882,0.6199405067308505,0.2463022638033982,The product shall assign the organizers contact information to each meeting they create.
+ecommerce_f_008,ecommerce,f,0.6705968192895232,0.4199079822541995,0.0933738876311374,The product will record meeting acknowledgements.
+ecommerce_f_009,ecommerce,f,0.6057622095875695,0.4599414149145467,0.220061044097291,The product shall store new conference rooms.
+ecommerce_f_010,ecommerce,f,0.6147559659679261,0.2999353018461378,0.2201495242269994,The product shall update existing conference rooms.
+ecommerce_f_011,ecommerce,f,0.4907951532102358,0.4199684709463658,0.123276199973232,The product will be able to delete conference rooms.
+ecommerce_f_012,ecommerce,f,0.6018945657621024,0.6199655155992465,0.213908373964185,The product shall be able to store new room equipment.
+ecommerce_f_013,ecommerce,f,0.5575939786519392,0.259956544423323,0.1139040760561327,The product will update existing room equipment.
+ecommerce_f_014,ecommerce,f,0.5220646510262927,0.4599843760034912,0.2257206134822753,The product shall be able to delete room equipment.
+ecommerce_f_015,ecommerce,f,0.5739850527148658,0.8199174110747036,0.2204254367793353,The product shall allow an organizer to invite other employees to meetings.
+ecommerce_f_016,ecommerce,f,0.5010354085503022,0.2999802035165298,0.2267519234914373,The product shall record the transportation status of equipment reserved.
+ecommerce_f_017,ecommerce,f,0.5012407722463568,0.299914775210345,0.2342055034319815,The product shall display a map of the company building showing conference room locations.
+ecommerce_f_018,ecommerce,f,0.6694484255011859,0.2999198278538905,0.2026618217086153,The product shall record updated meeting agendas.
+ecommerce_f_019,ecommerce,f,0.6141640491205551,0.6199290540370588,0.2129941673203551,The product shall send a meeting confirmation to the meeting organizer.
+ecommerce_f_020,ecommerce,f,0.5005390151592674,0.4599438624840821,0.2271077434229967,The product shall display room equipment according to search parameters.
+ecommerce_f_021,ecommerce,f,0.6158508478446059,0.4599074361860541,0.212592713236259,The product shall display conference rooms according to search parameters.
+ecommerce_f_022,ecommerce,f,0.6688457123909365,0.2997585802465347,0.1996468087248406,The product shall record different meeting types.
+ecommerce_f_023,ecommerce,f,0.4977277621863051,0.299976148006576,0.2303108236598555,The product shall record all the equipment that has been reserved.
+ecommerce_f_024,ecommerce,f,0.4646374511656865,0.2999622124790891,0.2650841596229906,The product shall notify building personnel of equipment transport requests.
+ecommerce_f_025,ecommerce,f,0.4773636633841646,0.6599154933886432,0.2771090775013034,The product will allow priviledged users to view meeting schedules in multiple reporting views.
+ecommerce_f_026,ecommerce,f,0.57487691790916,0.4597703492651027,0.2208555064810897,The product shall be able to send meeting notifications via different kinds of end-user specified methods.
+ecommerce_f_027,ecommerce,f,0.3905067897227838,0.4199381754804093,0.2852082952520626,The product shall have a customizable Look and Feel.
+ecommerce_f_028,ecommerce,f,0.379818958876002,0.099903427256371,0.2824743699585055,The product shall have an intuitive user interface.
+ecommerce_f_029,ecommerce,f,0.4771899843726441,0.2599355031676468,0.1481583594020835,The product will display an available status for unreserved conference rooms.
+ecommerce_f_030,ecommerce,f,0.6505995587238779,0.4199987115423423,0.2103420386614601,The System shall allow generation of Inventory Quantity Adjustment documents on demand.
+ecommerce_f_031,ecommerce,f,0.6400832945763142,0.4200211237580202,0.2116497640086796,The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.
+ecommerce_f_032,ecommerce,f,0.5420163795267556,0.4199772701437191,0.2477886558343016,The System shall allow entering  storing and modifying product formulas.
+ecommerce_f_033,ecommerce,f,0.4581341109897131,0.2599775212034833,0.2712690639073569,Product formulas shall allow use of semi-products  which have own formulas.
+ecommerce_f_034,ecommerce,f,0.5522456039025767,0.2599902310382536,0.2278326334674041,Product formula ingredients shall allow defining substitutionary ingredients.
+ecommerce_f_035,ecommerce,f,0.4986729045908901,0.4200116148036605,0.2356706565751314,Product formula substitutionary ingredients shall be entered automatically by the PFE subsystem.
+ecommerce_f_036,ecommerce,f,0.4103482085807945,0.260052076216326,0.3084334710097338,Formula substitutionary ingredients shall be kept in persisted order
+ecommerce_f_037,ecommerce,f,0.4680025993645789,0.4199836980894948,0.2621745589668606,Product shall allow entering  storing and modifying product menus used by POS terminals.
+ecommerce_f_038,ecommerce,f,0.5064797761587346,0.2599814292092465,0.2289615042211246,PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.
+ecommerce_f_039,ecommerce,f,0.5091987914944975,0.5800082760245953,0.2339763550303949,PME Subsystem shall allow keeping submenus within menus and products within submenus in a managed and persisted order.
+ecommerce_f_040,ecommerce,f,0.4389923369064895,0.4999819401448148,0.2496402988380265,PME Subsystem shall allow for a product to exist in more than one submenu
+ecommerce_f_041,ecommerce,f,0.6368300989294424,0.4600085197157291,0.212010124247664,The System shall generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.
+ecommerce_f_042,ecommerce,f,0.6283850743449437,0.6200229674946112,0.4739432222546133,The System shall generate Inventory Quantity Adjustment document automatically when daily Product Sales data is available.
+ecommerce_f_043,ecommerce,f,0.2877230813022434,0.9000921370912964,0.2297749584394473,shall be able to stream purchased movie via Windows Media Player  for up to 2 days aftere purchase date.
+ecommerce_f_044,ecommerce,f,0.25,0.8199625230142273,0.3290433484322755,Website shall allow customers to add their own movie review for a selected movie.
+ecommerce_f_045,ecommerce,f,0.265366367894956,0.9000007218626134,0.3164562754881022,Website shall allow the Izogn administrator to approve a review posted by a customer.
+ecommerce_f_046,ecommerce,f,0.25,0.5000082028646221,0.8222309292303878,Only registered customers can purchase streaming movies.
+ecommerce_f_047,ecommerce,f,0.333005658931598,0.9000839358056666,0.5301475355120838,Movies can only be streamed if the customer has purchased a movie  and is within the 2-day time period to stream the movie.
+ecommerce_f_048,ecommerce,f,0.25,0.3800086291925235,0.2144378890804662,The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.
+ecommerce_f_049,ecommerce,f,0.5348087005486566,0.419968201728191,0.2118713477705462,The product shall maintain a list of players.
+ecommerce_f_050,ecommerce,f,0.568074802893098,0.659936603462064,0.2095701381520862,The product shall allow a user to identify himself or herself as a player.
+ecommerce_f_051,ecommerce,f,0.6082251657320231,0.7400345788771219,0.2106647153645453,Once a game has been initiated  the product shall make the players assigned to the game unavailable for selection from the list of players.
+ecommerce_f_052,ecommerce,f,0.639351730415626,0.8200000776337846,0.2056982614899585,The product shall allow a user to remove himself or herself from the list of players at any time.
+ecommerce_f_053,ecommerce,f,0.6073422191896718,0.5800169578501931,0.2146800281593417,The product shall make inactive players unavailable for selection from the list of players.
+ecommerce_f_054,ecommerce,f,0.5439613497544178,0.9000964743197801,0.1643261475818962,The product shall remove players who have been inactive for 24 hours from the list of players.
+ecommerce_f_055,ecommerce,f,0.5421877115246069,0.8199654575712823,0.2435804663108824,The product shall allow a player to initiate a game by selecting another available player from the list of players.
+ecommerce_f_056,ecommerce,f,0.6283925847886851,0.620017903403372,0.2072660235494572,Once a game is initiated  the product shall display a defensive grid to each player
+ecommerce_f_057,ecommerce,f,0.6599169682892165,0.6200041443282666,0.1956844458687618,Once a game is initiated  the product shall display an offensive grid to each player.
+ecommerce_f_058,ecommerce,f,0.5229846803846173,0.5799920558269378,0.2254895758252501,The product shall prevent a player from viewing the offensive or defensive grids of the other player.
+ecommerce_f_059,ecommerce,f,0.6570388254266822,0.8200223490559888,0.2039432041312109,Once a game is initiated  the product shall allow each player to position their 5 ships on their respective defensive grids.
+ecommerce_f_060,ecommerce,f,0.7017325373264358,0.6599738170193001,0.1997524419734842,The product shall allow a player to position ships horizontally on their grid.
+ecommerce_f_061,ecommerce,f,0.6826900419214192,0.65998113051655,0.2048126730031086,The product shall allow the player to position ships vertically on their grid.
+ecommerce_f_062,ecommerce,f,0.6529033873415601,0.6599747473088875,0.2163662622786368,The product shall allow the player to position ships diagonally on their grid
+ecommerce_f_063,ecommerce,f,0.6174423578136872,0.5800036593144873,0.2115432546940059,The product shall prevent the player from overlapping ships on their grid.
+ecommerce_f_064,ecommerce,f,0.6096077914845461,0.5800379850265219,0.3796609244409127,When both players have positioned their 5 ships on their defensive grids  the product shall define the status of each player for the first turn.
+ecommerce_f_065,ecommerce,f,0.6589732340928331,0.4200128119429344,0.1953970619300765,For each turn  the product shall identify one player as offensive status and one player as defensive status.
+ecommerce_f_066,ecommerce,f,0.6636379237603589,0.4200014353039349,0.1924678792936847,The product shall maintain the status of each player for a turn  either offensive or defensive.
+ecommerce_f_067,ecommerce,f,0.5971371690546434,0.4599929369046008,0.2049169070854261,At the start of each turn  the product shall notify each player of his or her status.
+ecommerce_f_068,ecommerce,f,0.6661558000246717,0.6599818861959136,0.1950494224237799,For each turn  the product shall allow the offensive player to define a shot.
+ecommerce_f_069,ecommerce,f,0.7169045724895824,0.5799863190850097,0.1959289749426491,For each shot  the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.
+ecommerce_f_070,ecommerce,f,0.674047868188708,0.4599703512629434,0.1953945416531642,For each shot  the product shall notify the players whether the shot was a hit or miss.
+ecommerce_f_071,ecommerce,f,0.75,0.4199911063262784,0.1799277257163074,For each shot  the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.
+ecommerce_f_072,ecommerce,f,0.75,0.4199873464826192,0.1777690707684272,For each shot  the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.
+ecommerce_f_073,ecommerce,f,0.695169113600531,0.4600082449710815,0.4262691457770969,When the hit results in sinking a ship  the product shall notify the players that the ship was sunk.
+ecommerce_f_074,ecommerce,f,0.75,0.4200247251761258,0.359787072171828,When the hit results in sinking a ship  the product shall mark the ship as sunk on the defensive grid of the defensive player.
+ecommerce_f_075,ecommerce,f,0.75,0.4199989322065062,0.359969953946901,When the hit results in sinking a ship  the product shall indicate the type of ship sunk on the defensive grid of the defensive player.
+ecommerce_f_076,ecommerce,f,0.75,0.4200223616879265,0.3629873718512871,When the hit results in sinking a ship  the product shall mark the ship as sunk on the offensive grid of the offensive player.
+ecommerce_f_077,ecommerce,f,0.7101505712537389,0.6599712428672211,0.4120982063944039,If the shot was marked as a hit  the product shall allow the offensive player to define a shot.
+ecommerce_f_078,ecommerce,f,0.7152241107024385,0.5800203068927077,0.4142067306475169,If the shot was marked as a miss  the product shall change the status of the offensive player to defensive
+ecommerce_f_079,ecommerce,f,0.7192201361756105,0.5800201316245704,0.4140088387582877,If the shot was marked as a miss  the product shall change the status of the defensive player to offensive
+ecommerce_f_080,ecommerce,f,0.5455455839811246,0.4600237377796529,0.2186123965460107,The product shall continue to assign turns until the game is ended.
+ecommerce_f_081,ecommerce,f,0.6802559540450968,0.4200285897596028,0.3396541931170166,The product shall end a game when a hit by the offensive player results in sinking the last of the defensive players ships  which had not been previously marked as sunk.
+ecommerce_f_082,ecommerce,f,0.6160785081705178,0.6600127116769279,0.20683973235858,The product shall allow a player to end a game at any time during the game.
+ecommerce_f_083,ecommerce,f,0.6201597302398816,0.4599825838473129,0.4653591387764144,When a game is ended  the product shall notify the players that the game is ended.
+ecommerce_f_084,ecommerce,f,0.6671352088288269,0.6599728859402165,0.3608436964974321,When a game is ended  the product shall allow each player to identify himself or herself as an available player in the list of players.
+ecommerce_f_085,ecommerce,f,0.6993160520526324,0.8199975775627577,0.3936107450493425,When a game is ended  the product shall allow each player to remove himself or herself from the list of players.
+ecommerce_ft_001,ecommerce,ft,0.5,0.2599943343127222,0.4999999999994999,The product shall operate in offline mode whenever internet connection is unavailable.
+ecommerce_ft_002,ecommerce,ft,0.5,0.5399680965936252,0.4999999999994999,The product shall allow the user to view previously downloaded search results  CMA reports  and appointments.
+ecommerce_ft_003,ecommerce,ft,0.5,0.2599924253111191,0.4999999999994999,The product shall retain user preferences in the event of a failure.
+ecommerce_ft_004,ecommerce,ft,0.5,0.6199831416263173,0.4999999999994999,The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.
+ecommerce_ft_005,ecommerce,ft,0.5,0.5800577103237592,0.4999999999994999,The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data.  The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.
+ecommerce_ft_006,ecommerce,ft,0.5,0.2599817852719938,0.4999999999994999,The product shall be robust.The product shall have fault avoidance based on standards adoption.
+ecommerce_l_001,ecommerce,l,0.5,0.4199890235039476,0.1874999999997656,The product must comply with Sarbanes-Oxley.
+ecommerce_l_002,ecommerce,l,0.5,0.4200080670712905,0.8124999999989845,The product shall comply with the estimatics laws relating to recycled parts usage.
+ecommerce_l_003,ecommerce,l,0.5,0.2599915163379268,0.8124999999989845,The product shall comply with insurance regulations regarding claims processing.
+ecommerce_l_004,ecommerce,l,0.5,0.2599418915070341,0.8124999999989845,IzognMovies shall meet the licensing requirements set forth by the appropriate organizations in order to stream African movies.
+ecommerce_lf_005,ecommerce,lf,0.5,0.2599805501053238,0.797455529919545,The product shall have a conservative and professional appearance.
+ecommerce_lf_006,ecommerce,lf,0.5,0.2599784826781672,0.5040040594843244,The product shall simulate the look of ships at sea.
+ecommerce_lf_007,ecommerce,lf,0.5,0.6199670416952344,0.6987965449574527,The product shall display the grids within a circle as a view from a periscope.
+ecommerce_lf_008,ecommerce,lf,0.5,0.2999670574851567,0.6224565455315646,The product shall display each type of ship in a grid using an image of the specific type of ship.
+ecommerce_lf_009,ecommerce,lf,0.5,0.4199868556792018,0.3595899215543965,When the offensive player takes a shot  the product shall simulate the sound of a ship at sea.
+ecommerce_lf_010,ecommerce,lf,0.5,0.2599808649826905,0.4050225658253765,When a shot is marked as a miss  the product shall simulate the sound of a shot missing its target.
+ecommerce_lf_011,ecommerce,lf,0.5,0.2599848612804357,0.3938482259672232,When a shot is marked as a hit  the product shall simulate the sound of a shot hitting its target.
+ecommerce_lf_012,ecommerce,lf,0.5,0.2599942236516836,0.4199121971236895,When a ship is sunk  the product shall simulate the sound of a sinking ship.
+ecommerce_lf_013,ecommerce,lf,0.5,0.8999953557891107,0.8932649869248643,The product shall provide GUI based Monitoring Services.System Administrators shall monitor message exchanges will predict and determine problems and will also provide internal and external support.
+ecommerce_lf_014,ecommerce,lf,0.5,0.2599806570820472,0.7422628391745588,The product shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface.
+ecommerce_lf_015,ecommerce,lf,0.5,0.9000909467943223,0.5699168583092847,The product must comply with the intranet page standards and requirements of ENET Securities. 95% of the product look & feel will be approved by the Architecture group  prior to implementation. The remaining 5% will be corrected and approved within one month of product release.
+ecommerce_mn_001,ecommerce,mn,0.5,0.9002424700464621,0.1874999999997656,The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.
+ecommerce_mn_002,ecommerce,mn,0.5,0.740003198248757,0.1874999999997656,The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product�s software code.
+ecommerce_mn_004,ecommerce,mn,0.5,0.9000031753533697,0.8124999999989845,The customer shall be able to easily integrate new building maps with the product throughout the products lifecycle.  Integration of new maps with the product shall be possible with little to no support from product support staff.
+ecommerce_mn_005,ecommerce,mn,0.5,0.9002250221823477,0.812499999998672,The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.
+ecommerce_mn_006,ecommerce,mn,0.5,0.4199753706160694,0.4999999999993751,The product shall be internet browser independent.The product must run using Internet Explorer and Netscape Navigator.
+ecommerce_mn_007,ecommerce,mn,0.5,0.9000575742672623,0.8124999999989845,: The product shall continue to operate during upgrade  change or new resource addition.The product shall be able to continue to operate with no interruption in service due to new resource additions.
+ecommerce_mn_008,ecommerce,mn,0.5,0.4200656984454384,0.4999999999993751,The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.
+ecommerce_mn_009,ecommerce,mn,0.5,0.2599902199853079,0.8124999999989845,The product shall operate with every platform.The product shall accommodate any new technology without any change in its architecture.
+ecommerce_o_001,ecommerce,o,0.5,0.419970099018935,0.1310105595867088,The product must support Internet Explorer 5.5 and above.
+ecommerce_o_003,ecommerce,o,0.5,0.2599684871310361,0.2185207191099397,The product shall interface with the Choice Parts System.  This provides the feed of recycled parts data.
+ecommerce_o_004,ecommerce,o,0.5,0.2599673976263991,0.2873593688884132,The product shall run on the existing hardware for all environments.
+ecommerce_o_005,ecommerce,o,0.5,0.419982473712605,0.2966514263512278,The product shall adhere to the corporate Architecture guidelines
+ecommerce_o_006,ecommerce,o,0.5,0.7400236575142147,0.326882920453562,For estimators  the product shall be able to be operated in a repair facility during dirty and noisy conditions.
+ecommerce_o_007,ecommerce,o,0.5,0.7400517935767174,0.8050272581417831,The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.
+ecommerce_o_008,ecommerce,o,0.5,0.3800102437120762,0.3003787107969229,The maintenance of the product will fall within the established corporate maintenance windows.
+ecommerce_o_009,ecommerce,o,0.5,0.2599617961514718,0.2846535523268775,The product shall be supported using the corporate support center.
+ecommerce_o_010,ecommerce,o,0.5,0.4200277107872627,0.3018638804206027,Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.
+ecommerce_o_011,ecommerce,o,0.5,0.2599514125670008,0.0621435132706757,The product must work with most database management systems (DBMS) on the market  whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network.
+ecommerce_o_012,ecommerce,o,0.5,0.2199553784691456,0.291774979971567,The product will function alongside server software on any operating system where the Java runtime can be installed.
+ecommerce_o_013,ecommerce,o,0.5,0.2199489859191124,0.332923598445062,The product will require collaboration with a database management system (DBMS).  The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.
+ecommerce_o_014,ecommerce,o,0.5,0.4199736455670608,0.1273280184148772,The product must make use of web/application server technology.  Open source examples include Apache web server  Tomcat  and the JBoss application server.
+ecommerce_o_015,ecommerce,o,0.5,0.3799685437115908,0.0774647279870421,A database management system such as Oracle  DB2  MySql or HSQL will need to be integrated with the product.
+ecommerce_o_016,ecommerce,o,0.5,0.2599538850056638,0.2765734016157289,The product shall be used in office environments.
+ecommerce_o_017,ecommerce,o,0.5,0.9000315040529241,0.1998108645274822,The product must be able to interface with any HTML browser.  The product shall transmit data between the user and the product without problems. The product shall display HTML properly in 80% of all HTML browsers tested (minimum is to test 8 browsers).
+ecommerce_o_018,ecommerce,o,0.5,0.5799759347110427,0.1455213740801884,The product must be able to interface with various database management systems. The product shall communicate successfully with the database management system on 100% of all transactions.
+ecommerce_o_019,ecommerce,o,0.5,0.6199419221657998,0.1842170588717134,The product must be able to interface with various email servers. The product shall be able to send email.
+ecommerce_o_020,ecommerce,o,0.5,0.2599667835300052,0.2992843282087954,The product shall be available for distribution via the Internet as a binary or ZIP file.
+ecommerce_o_021,ecommerce,o,0.5,0.259962555778316,0.3088979132462504,The product shall be available for distribution as a packaged CD.
+ecommerce_o_022,ecommerce,o,0.5,0.2199588567258575,0.1255331813886311,The product will be available for licensing as a one-server  two-five servers  or five-or-more servers license.
+ecommerce_o_023,ecommerce,o,0.5,0.5399431749645498,0.1649222914502678,The product is expected to integrate with multiple database management systems.  The product will operate with Oracle  SQL Server  DB2  MySQL  HSQL  and MS Access.
+ecommerce_o_025,ecommerce,o,0.5,0.2599750840289801,0.1407647623175304,The product must be developed with the J2SE/J2EE programming language libraries
+ecommerce_o_026,ecommerce,o,0.5,0.7400799109544787,0.2836626081872363,The product shall be able to be installed in the specified environment within 1 working day.
+ecommerce_o_027,ecommerce,o,0.5,0.4199489714450171,0.2845840287588949,The product shall be platform independent.The product shall enable access to any type of development environment and platform.
+ecommerce_o_028,ecommerce,o,0.5,0.5800006155438033,0.3053134649941291,The product shall interface CSR and Datastream.The product shall exchange messages between CSR and EAM on a real time basis without any direct interfaces between two systems.
+ecommerce_o_029,ecommerce,o,0.5,0.9000985001668081,0.2870288705476185,The RFS system should be able to easily interface with the BDW environment  in order to load the data.7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. The data will be as of October month-end.         Test files (7) shall be loaded up to 5 times throughout the year  from the BDW.
+ecommerce_pe_001,ecommerce,pe,0.5,0.419982485028716,0.812499999998672,The product shall respond fast to keep up-to-date data in the display.
+ecommerce_pe_003,ecommerce,pe,0.5,0.2600046706590091,0.812499999998672,The product shall synchronize contacts and appointments in an acceptable time.
+ecommerce_pe_004,ecommerce,pe,0.5,0.2600141901399836,0.812499999998672,The product shall synchronize with the office system every hour.
+ecommerce_pe_005,ecommerce,pe,0.5,0.900304536020281,0.4999999999992188,Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.
+ecommerce_pe_006,ecommerce,pe,0.5,0.9001014894622602,0.812499999998672,Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.
+ecommerce_pe_007,ecommerce,pe,0.5,0.9000951527032857,0.1874999999997656,Izogn Administrator must be able to update the category listings on the website within 2 minutes.
+ecommerce_pe_008,ecommerce,pe,0.5,0.4199415825508882,0.812499999998672,The product shall able to handle a large number of games simultaneously.
+ecommerce_pe_009,ecommerce,pe,0.5,0.5799927205826656,0.8124999999989845,The product shall protect the identity of the players. The product shall provide players no access to information that might reveal the identity of another player.
+ecommerce_pe_010,ecommerce,pe,0.5,0.4199904390704796,0.8124999999989845,The product shall provide Asynchronous Messaging.The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications
+ecommerce_pe_011,ecommerce,pe,0.5,0.4199926200534939,0.8124999999989845,The product shall provide Multi-threading and Load Balancing.The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic.
+ecommerce_pe_013,ecommerce,pe,0.5,0.5800743063215669,0.8124999999989845,The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.
+ecommerce_pe_014,ecommerce,pe,0.5,0.5800651313240633,0.4999999999993751,The product shall provide Dynamic Change Support and Transparent resource addition.The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day.
+ecommerce_pe_015,ecommerce,pe,0.5,0.9001089462530548,0.1874999999997656,The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.not be more than 10 seconds.
+ecommerce_po_001,ecommerce,po,0.5,0.2599635405431352,0.4999999999994999,The product is expected to run on Windows CE and Palm operating systems.
+ecommerce_sc_001,ecommerce,sc,0.5,0.4199089934671385,0.7660322830687536,The product shall be able to support multiple remote users
+ecommerce_sc_002,ecommerce,sc,0.5,0.4199880005801495,0.4307242542832137,The product shall be able support 1000 simultaneous users.
+ecommerce_sc_003,ecommerce,sc,0.5,0.9000274170947085,0.1935859105705173,The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year.
+ecommerce_sc_004,ecommerce,sc,0.5,0.9000484326917609,0.4075636293185917,The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time.
+ecommerce_sc_005,ecommerce,sc,0.5,0.9000590787836898,0.3939119357180626,The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch.
+ecommerce_sc_006,ecommerce,sc,0.5,0.9001011165569291,0.2997101331123573,The product shall be capable of handling up to 1 000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.
+ecommerce_sc_007,ecommerce,sc,0.5,0.900240959477231,0.2207756693877517,The product shall be able to process 10 000 transactions per hour within two years of its launch.  This number will increase to 20 000 by Release 2.
+ecommerce_sc_008,ecommerce,sc,0.5,0.900083092623817,0.6868457613223377,The product shall be expected to operate for at least 5 years for each customer installation.
+ecommerce_sc_009,ecommerce,sc,0.5,0.5800238927840564,0.6793123788652302,The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.
+ecommerce_sc_010,ecommerce,sc,0.5,0.7400934058115514,0.5067484445526779,The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.
+ecommerce_se_002,ecommerce,se,0.5,0.4199932646770707,0.1800910658721105,The product shall prevent its data from incorrect data being introduced.
+ecommerce_se_003,ecommerce,se,0.5,0.2599742596634546,0.1800910658721105,The product shall free of computer viruses.
+ecommerce_se_004,ecommerce,se,0.5,0.4200462068390508,0.4661069068645047,The product shall ensure that only company employees or external users with company-approved user IDs may have product access.  100% of all logons shall be by either company employees or external users with company-approved user IDs.
+ecommerce_se_005,ecommerce,se,0.5,0.4199642242467698,0.1145466498007947,The product shall ensure that the databases data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.
+ecommerce_se_006,ecommerce,se,0.5,0.5800432338598517,0.1800910658721761,The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systems data shall remain 100% uncorrupted each time malicious data is input into the product.
+ecommerce_se_007,ecommerce,se,0.5,0.9000463468430284,0.1800910658721761,The product shall have the ability to receive automatic software updates as new threats emerge.  100% of customers will be able to receive automatic software updates transmitted to the installed product.
+ecommerce_se_008,ecommerce,se,0.5,0.5000082028646221,0.3298865968327107,Only registered customers can purchase streaming movies.
+ecommerce_se_009,ecommerce,se,0.5,0.9000625886202462,0.1524859464516901,A customer can only stream a movie if they purchased it  and are within the 2 day viewing period.
+ecommerce_se_010,ecommerce,se,0.5,0.5000348857279447,0.2456212879017299,Only authorized personnel can access customer records in the database.
+ecommerce_se_011,ecommerce,se,0.5,0.8600225722202235,0.311170435320326,All customer information will be stored on a secure database  accessible only to authorized personnel.
+ecommerce_se_012,ecommerce,se,0.5,0.5799802699657861,0.6701134031662436,The product shall provide players no access to information that might reveal the identity of another player
+ecommerce_se_015,ecommerce,se,0.5,0.7000140635574401,0.2557137790153794,The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.
+ecommerce_se_017,ecommerce,se,0.5,0.2599962921315017,0.1800910658721761,The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.
+ecommerce_se_018,ecommerce,se,0.5,0.7000198774068219,0.0490022337294133,Each team owner will need to use a username and password in order to be authenticated to reach the team owners page
+ecommerce_us_001,ecommerce,us,0.5,0.9000731428674605,0.1874999999997656,The product shall be intuitive and self-explanatory.  :  90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.
+ecommerce_us_002,ecommerce,us,0.5,0.579968690952616,0.249999999999625,The product shall be easy for a realtor to learn.
+ecommerce_us_003,ecommerce,us,0.5,0.7400005642265561,0.249999999999625,The product shall be installed by an untrained realtor   without recourse to separately-printed instructions.
+ecommerce_us_004,ecommerce,us,0.5,0.9000336983257896,0.249999999999625,90% of untrained realtors shall be able to install the product on their device without printed instructions
+ecommerce_us_005,ecommerce,us,0.5,0.9000454060268261,0.2499999999996875,The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.
+ecommerce_us_006,ecommerce,us,0.5,0.9002361098657695,0.2499999999996875,The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.
+ecommerce_us_007,ecommerce,us,0.5,0.420063347589177,0.2499999999996875,Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.
+ecommerce_us_008,ecommerce,us,0.5,0.7400513335636484,0.2499999999996875,The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training
+ecommerce_us_009,ecommerce,us,0.5,0.4200222877384572,0.1874999999997656,The user shall easily locate instructions while using the product.  User help can be found within 90% of the system.
+ecommerce_us_010,ecommerce,us,0.5,0.7400945126851028,0.1874999999997656,The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.
+ecommerce_us_011,ecommerce,us,0.5,0.9000556426334373,0.1562499999998047,The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.
+ecommerce_us_012,ecommerce,us,0.5,0.4200317456387349,0.1874999999997656,The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.
+ecommerce_us_013,ecommerce,us,0.5,0.6599311689655648,0.249999999999625,The product shall allow the user to select a chosen language from one of the target market countries.
+ecommerce_us_014,ecommerce,us,0.5,0.4599679935643823,0.249999999999625,The product shall allow for customization of start page and views preferences.
+ecommerce_us_015,ecommerce,us,0.5,0.9000715001892132,0.1562499999998047,An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.
+ecommerce_us_017,ecommerce,us,0.5,0.0997300439095023,0.249999999999625,The product shall allow for intuitive searching of available conference rooms.
+ecommerce_us_018,ecommerce,us,0.5,0.4199754106172059,0.249999999999625,The product shall conform to the Americans with Disabilities Act.
+ecommerce_us_019,ecommerce,us,0.5,0.9000866590409283,0.1874999999997656,The product shall be translated into foreign languages other than the target market countries languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that market�s language.
+ecommerce_us_020,ecommerce,us,0.5,0.9000381258199956,0.1874999999997656,The product shall be able to display calendar dates and times according to the users locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.
+ecommerce_us_021,ecommerce,us,0.5,0.5000006334390487,0.7499999999990625,The product should be able to be used by 90% of novice users on the Internet.
+ecommerce_us_022,ecommerce,us,0.5,0.5799680343550148,0.249999999999625,The product shall retain the customers buying preferences and information.
+ecommerce_us_023,ecommerce,us,0.5,0.9000715238740966,0.3033088235290375,The product shall be easy for customers with novice skills on the  Internet to purchase and watch streaming movies.  Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.
+ecommerce_us_024,ecommerce,us,0.5,0.2599678217173948,0.249999999999625,The product shall use symbols and words that are naturally understandable by users familiar with websites
+ecommerce_us_025,ecommerce,us,0.5,0.4199747027023571,0.2499999999996875,The product shall be intuitive and self-explanatory.  Nine out ten users shall be able to successfully complete a game with no training.
+ecommerce_us_026,ecommerce,us,0.5,0.8199532401189216,0.2499999999996875,The product shall be available to players who understand English  Spanish and French.  The product shall allow the user to select the language upon accessing the product.
+ecommerce_us_027,ecommerce,us,0.5,0.9000544318095641,0.2499999999996875,The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage.
+ecommerce_us_028,ecommerce,us,0.5,0.8999977542783044,0.2499999999996875,The product shall provide Portals.The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs (Key Performance Indicators)
+ecommerce_us_029,ecommerce,us,0.5,0.9001025555451792,0.4255952380947154,The users should be able to easily use the system to successfully complete their budgets  within the stipulated time for completion. With a week of training prior to product implementation  98% of the users shall complete their budgets within the stipulated time.

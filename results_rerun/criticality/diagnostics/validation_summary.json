@@ -1,0 +1,10 @@
+{
+  "embedding_dim": 1024,
+  "frac_embeddings_renormalized": 0.0,
+  "winsor_p": 0.05,
+  "span_eps": 0.05,
+  "ewm_enabled": true,
+  "ewm_wmin": 0.2,
+  "ewm_wmax": 0.5,
+  "ewm_kappa": 1.5
+}

@@ -1,0 +1,30 @@
+{
+  "eps": 1e-09,
+  "span_min": 1e-06,
+  "spans": [
+    {
+      "system": "ecommerce",
+      "metric": "C",
+      "min": 0.25,
+      "max": 0.75,
+      "span": 0.5,
+      "status": "ok"
+    },
+    {
+      "system": "ecommerce",
+      "metric": "S",
+      "min": 0.0997300439095023,
+      "max": 0.900304536020281,
+      "span": 0.8005744921107787,
+      "status": "ok"
+    },
+    {
+      "system": "ecommerce",
+      "metric": "R",
+      "min": 0.10673501307513567,
+      "max": 0.9509977662705867,
+      "span": 0.8442627531954511,
+      "status": "ok"
+    }
+  ]
+}

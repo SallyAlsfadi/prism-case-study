@@ -1,0 +1,162 @@
+{
+  "ecommerce": {
+    "n_reqs": 213,
+    "n_classes": 12,
+    "weights": {
+      "C1": 0.25000000000000006,
+      "C2": 0.5,
+      "C3": 0.25000000000000006
+    },
+    "component_corr": {
+      "C1": {
+        "C1": NaN,
+        "C2": NaN,
+        "C3": NaN
+      },
+      "C2": {
+        "C1": NaN,
+        "C2": 1.0,
+        "C3": NaN
+      },
+      "C3": {
+        "C1": NaN,
+        "C2": NaN,
+        "C3": NaN
+      }
+    },
+    "classes": [
+      {
+        "class": "a",
+        "n": 6,
+        "tiny_group": false,
+        "C1_span": 0.01779673993587494,
+        "C1_span_flag": true,
+        "C2_span": 0.020224183797836304,
+        "C2_span_flag": true,
+        "C3_span": 0.0091315358877182,
+        "C3_span_flag": true
+      },
+      {
+        "class": "f",
+        "n": 85,
+        "tiny_group": false,
+        "C1_span": 0.032804358005523615,
+        "C1_span_flag": true,
+        "C2_span": 0.06348987817764284,
+        "C2_span_flag": false,
+        "C3_span": 0.0005446910858154297,
+        "C3_span_flag": true
+      },
+      {
+        "class": "ft",
+        "n": 6,
+        "tiny_group": false,
+        "C1_span": 0.016722172498703003,
+        "C1_span_flag": true,
+        "C2_span": 0.018406294286251068,
+        "C2_span_flag": true,
+        "C3_span": 0.007896319031715393,
+        "C3_span_flag": true
+      },
+      {
+        "class": "l",
+        "n": 4,
+        "tiny_group": false,
+        "C1_span": 0.02091916501522073,
+        "C1_span_flag": true,
+        "C2_span": 0.025876416265964597,
+        "C2_span_flag": true,
+        "C3_span": 0.018246391415596003,
+        "C3_span_flag": true
+      },
+      {
+        "class": "lf",
+        "n": 11,
+        "tiny_group": false,
+        "C1_span": 0.02999839186668396,
+        "C1_span_flag": true,
+        "C2_span": 0.048642635345458984,
+        "C2_span_flag": true,
+        "C3_span": 0.005802541971206665,
+        "C3_span_flag": true
+      },
+      {
+        "class": "mn",
+        "n": 8,
+        "tiny_group": false,
+        "C1_span": 0.013080045580863953,
+        "C1_span_flag": true,
+        "C2_span": 0.016465499997138977,
+        "C2_span_flag": true,
+        "C3_span": 0.003659477829933166,
+        "C3_span_flag": true
+      },
+      {
+        "class": "o",
+        "n": 27,
+        "tiny_group": false,
+        "C1_span": 0.02358307242393487,
+        "C1_span_flag": true,
+        "C2_span": 0.038032343983650185,
+        "C2_span_flag": true,
+        "C3_span": 0.0017529726028442383,
+        "C3_span_flag": true
+      },
+      {
+        "class": "pe",
+        "n": 13,
+        "tiny_group": false,
+        "C1_span": 0.020977151393890336,
+        "C1_span_flag": true,
+        "C2_span": 0.021799391508102395,
+        "C2_span_flag": true,
+        "C3_span": 0.0032017230987548824,
+        "C3_span_flag": true
+      },
+      {
+        "class": "po",
+        "n": 1,
+        "tiny_group": true,
+        "C1_span": 0.0,
+        "C1_span_flag": true,
+        "C2_span": 0.0,
+        "C2_span_flag": true,
+        "C3_span": 0.0,
+        "C3_span_flag": true
+      },
+      {
+        "class": "sc",
+        "n": 10,
+        "tiny_group": false,
+        "C1_span": 0.03271073997020724,
+        "C1_span_flag": true,
+        "C2_span": 0.03965554833412177,
+        "C2_span_flag": true,
+        "C3_span": 0.006331145763397217,
+        "C3_span_flag": true
+      },
+      {
+        "class": "se",
+        "n": 14,
+        "tiny_group": false,
+        "C1_span": 0.030969905853271418,
+        "C1_span_flag": true,
+        "C2_span": 0.032422855496406555,
+        "C2_span_flag": true,
+        "C3_span": 0.004217603802680969,
+        "C3_span_flag": true
+      },
+      {
+        "class": "us",
+        "n": 28,
+        "tiny_group": false,
+        "C1_span": 0.024957081675529458,
+        "C1_span_flag": true,
+        "C2_span": 0.03271812945604324,
+        "C2_span_flag": true,
+        "C3_span": 0.0019525378942489618,
+        "C3_span_flag": true
+      }
+    ]
+  }
+}

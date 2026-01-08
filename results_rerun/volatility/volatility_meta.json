@@ -1,0 +1,822 @@
+{
+  "ecommerce::a": {
+    "weights": {
+      "V1": 0.12499999999984378,
+      "V2": 0.12499999999984378,
+      "V3": 0.6249999999992188,
+      "V4": 0.12499999999984378
+    },
+    "collapsed_columns": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": true
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_a_005",
+        "ecommerce_a_004",
+        "ecommerce_a_001"
+      ],
+      "least_volatile": [
+        "ecommerce_a_003",
+        "ecommerce_a_007",
+        "ecommerce_a_002"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_a_007",
+          "ecommerce_a_005",
+          "ecommerce_a_004"
+        ],
+        "V2": [
+          "ecommerce_a_007",
+          "ecommerce_a_005",
+          "ecommerce_a_004"
+        ],
+        "V3": [
+          "ecommerce_a_005",
+          "ecommerce_a_004",
+          "ecommerce_a_001"
+        ],
+        "V4": [
+          "ecommerce_a_007",
+          "ecommerce_a_005",
+          "ecommerce_a_004"
+        ]
+      }
+    },
+    "params": {
+      "n": 6,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::f": {
+    "weights": {
+      "V1": 0.11851271384561816,
+      "V2": 0.5925635692280908,
+      "V3": 0.11851271384561816,
+      "V4": 0.17041100307948787
+    },
+    "collapsed_columns": {
+      "V1": true,
+      "V2": false,
+      "V3": false,
+      "V4": false
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_f_046",
+        "ecommerce_f_047",
+        "ecommerce_f_042",
+        "ecommerce_f_083",
+        "ecommerce_f_073"
+      ],
+      "least_volatile": [
+        "ecommerce_f_008",
+        "ecommerce_f_005",
+        "ecommerce_f_013",
+        "ecommerce_f_011",
+        "ecommerce_f_029"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_f_085",
+          "ecommerce_f_031",
+          "ecommerce_f_023"
+        ],
+        "V2": [
+          "ecommerce_f_046",
+          "ecommerce_f_047",
+          "ecommerce_f_083"
+        ],
+        "V3": [
+          "ecommerce_f_085",
+          "ecommerce_f_035",
+          "ecommerce_f_027"
+        ],
+        "V4": [
+          "ecommerce_f_046",
+          "ecommerce_f_002",
+          "ecommerce_f_048"
+        ]
+      }
+    },
+    "params": {
+      "n": 85,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::ft": {
+    "weights": {
+      "V1": 0.24999999999974998,
+      "V2": 0.24999999999974998,
+      "V3": 0.24999999999974998,
+      "V4": 0.24999999999974998
+    },
+    "collapsed_columns": {
+      "V1": true,
+      "V2": true,
+      "V3": true,
+      "V4": true
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_ft_006",
+        "ecommerce_ft_005",
+        "ecommerce_ft_004"
+      ],
+      "least_volatile": [
+        "ecommerce_ft_001",
+        "ecommerce_ft_002",
+        "ecommerce_ft_003"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_ft_006",
+          "ecommerce_ft_005",
+          "ecommerce_ft_004"
+        ],
+        "V2": [
+          "ecommerce_ft_006",
+          "ecommerce_ft_005",
+          "ecommerce_ft_004"
+        ],
+        "V3": [
+          "ecommerce_ft_006",
+          "ecommerce_ft_005",
+          "ecommerce_ft_004"
+        ],
+        "V4": [
+          "ecommerce_ft_006",
+          "ecommerce_ft_005",
+          "ecommerce_ft_004"
+        ]
+      }
+    },
+    "params": {
+      "n": 6,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::l": {
+    "weights": {
+      "V1": 0.12499999999984378,
+      "V2": 0.12499999999984378,
+      "V3": 0.6249999999992188,
+      "V4": 0.12499999999984378
+    },
+    "collapsed_columns": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": true
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_l_004",
+        "ecommerce_l_003"
+      ],
+      "least_volatile": [
+        "ecommerce_l_001",
+        "ecommerce_l_002"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_l_004",
+          "ecommerce_l_003",
+          "ecommerce_l_002"
+        ],
+        "V2": [
+          "ecommerce_l_004",
+          "ecommerce_l_003",
+          "ecommerce_l_002"
+        ],
+        "V3": [
+          "ecommerce_l_004",
+          "ecommerce_l_003",
+          "ecommerce_l_002"
+        ],
+        "V4": [
+          "ecommerce_l_004",
+          "ecommerce_l_003",
+          "ecommerce_l_002"
+        ]
+      }
+    },
+    "params": {
+      "n": 4,
+      "k": 5,
+      "alpha_used": 0.7,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::lf": {
+    "weights": {
+      "V1": 0.10673501307406828,
+      "V2": 0.10673501307406828,
+      "V3": 0.25285490848045467,
+      "V4": 0.5336750653703414
+    },
+    "collapsed_columns": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": false
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_lf_013",
+        "ecommerce_lf_005",
+        "ecommerce_lf_014",
+        "ecommerce_lf_007",
+        "ecommerce_lf_008"
+      ],
+      "least_volatile": [
+        "ecommerce_lf_009",
+        "ecommerce_lf_011",
+        "ecommerce_lf_010",
+        "ecommerce_lf_012",
+        "ecommerce_lf_006"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_lf_015",
+          "ecommerce_lf_014",
+          "ecommerce_lf_013"
+        ],
+        "V2": [
+          "ecommerce_lf_015",
+          "ecommerce_lf_014",
+          "ecommerce_lf_013"
+        ],
+        "V3": [
+          "ecommerce_lf_013",
+          "ecommerce_lf_012",
+          "ecommerce_lf_011"
+        ],
+        "V4": [
+          "ecommerce_lf_013",
+          "ecommerce_lf_014",
+          "ecommerce_lf_015"
+        ]
+      }
+    },
+    "params": {
+      "n": 11,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::mn": {
+    "weights": {
+      "V1": 0.12499999999984378,
+      "V2": 0.12499999999984378,
+      "V3": 0.6249999999992188,
+      "V4": 0.12499999999984378
+    },
+    "collapsed_columns": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": true
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_mn_009",
+        "ecommerce_mn_007",
+        "ecommerce_mn_004",
+        "ecommerce_mn_005"
+      ],
+      "least_volatile": [
+        "ecommerce_mn_001",
+        "ecommerce_mn_002",
+        "ecommerce_mn_006",
+        "ecommerce_mn_008"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_mn_009",
+          "ecommerce_mn_008",
+          "ecommerce_mn_007"
+        ],
+        "V2": [
+          "ecommerce_mn_009",
+          "ecommerce_mn_008",
+          "ecommerce_mn_007"
+        ],
+        "V3": [
+          "ecommerce_mn_009",
+          "ecommerce_mn_007",
+          "ecommerce_mn_004"
+        ],
+        "V4": [
+          "ecommerce_mn_009",
+          "ecommerce_mn_008",
+          "ecommerce_mn_007"
+        ]
+      }
+    },
+    "params": {
+      "n": 8,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::o": {
+    "weights": {
+      "V1": 0.590797709865368,
+      "V2": 0.1181595419730736,
+      "V3": 0.17288320618730335,
+      "V4": 0.1181595419730736
+    },
+    "collapsed_columns": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": false
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_o_007",
+        "ecommerce_o_013",
+        "ecommerce_o_006",
+        "ecommerce_o_021",
+        "ecommerce_o_028"
+      ],
+      "least_volatile": [
+        "ecommerce_o_011",
+        "ecommerce_o_015",
+        "ecommerce_o_022",
+        "ecommerce_o_014",
+        "ecommerce_o_001"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_o_007",
+          "ecommerce_o_013",
+          "ecommerce_o_029"
+        ],
+        "V2": [
+          "ecommerce_o_029",
+          "ecommerce_o_014",
+          "ecommerce_o_003"
+        ],
+        "V3": [
+          "ecommerce_o_027",
+          "ecommerce_o_028",
+          "ecommerce_o_009"
+        ],
+        "V4": [
+          "ecommerce_o_029",
+          "ecommerce_o_006",
+          "ecommerce_o_025"
+        ]
+      }
+    },
+    "params": {
+      "n": 27,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::pe": {
+    "weights": {
+      "V1": 0.12499999999984378,
+      "V2": 0.12499999999984378,
+      "V3": 0.6249999999992188,
+      "V4": 0.12499999999984378
+    },
+    "collapsed_columns": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": true
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_pe_013",
+        "ecommerce_pe_011",
+        "ecommerce_pe_010",
+        "ecommerce_pe_009",
+        "ecommerce_pe_008"
+      ],
+      "least_volatile": [
+        "ecommerce_pe_007",
+        "ecommerce_pe_015",
+        "ecommerce_pe_005",
+        "ecommerce_pe_014",
+        "ecommerce_pe_001"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_pe_015",
+          "ecommerce_pe_014",
+          "ecommerce_pe_013"
+        ],
+        "V2": [
+          "ecommerce_pe_015",
+          "ecommerce_pe_014",
+          "ecommerce_pe_013"
+        ],
+        "V3": [
+          "ecommerce_pe_013",
+          "ecommerce_pe_011",
+          "ecommerce_pe_010"
+        ],
+        "V4": [
+          "ecommerce_pe_015",
+          "ecommerce_pe_014",
+          "ecommerce_pe_013"
+        ]
+      }
+    },
+    "params": {
+      "n": 13,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::po": {
+    "weights": {
+      "V1": 0.24999999999974998,
+      "V2": 0.24999999999974998,
+      "V3": 0.24999999999974998,
+      "V4": 0.24999999999974998
+    },
+    "collapsed_columns": {
+      "V1": true,
+      "V2": true,
+      "V3": true,
+      "V4": true
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_po_001"
+      ],
+      "least_volatile": [
+        "ecommerce_po_001"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_po_001"
+        ],
+        "V2": [
+          "ecommerce_po_001"
+        ],
+        "V3": [
+          "ecommerce_po_001"
+        ],
+        "V4": [
+          "ecommerce_po_001"
+        ]
+      }
+    },
+    "params": {
+      "n": 1,
+      "k": 5,
+      "alpha_used": 0.7,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::sc": {
+    "weights": {
+      "V1": 0.10101467738011792,
+      "V2": 0.10101467738011792,
+      "V3": 0.29289725833816443,
+      "V4": 0.5050733869005896
+    },
+    "collapsed_columns": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": false
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_sc_001",
+        "ecommerce_sc_008",
+        "ecommerce_sc_009",
+        "ecommerce_sc_010",
+        "ecommerce_sc_002"
+      ],
+      "least_volatile": [
+        "ecommerce_sc_003",
+        "ecommerce_sc_007",
+        "ecommerce_sc_006",
+        "ecommerce_sc_005",
+        "ecommerce_sc_004"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_sc_010",
+          "ecommerce_sc_009",
+          "ecommerce_sc_008"
+        ],
+        "V2": [
+          "ecommerce_sc_010",
+          "ecommerce_sc_009",
+          "ecommerce_sc_008"
+        ],
+        "V3": [
+          "ecommerce_sc_010",
+          "ecommerce_sc_004",
+          "ecommerce_sc_008"
+        ],
+        "V4": [
+          "ecommerce_sc_009",
+          "ecommerce_sc_001",
+          "ecommerce_sc_008"
+        ]
+      }
+    },
+    "params": {
+      "n": 10,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::se": {
+    "weights": {
+      "V1": 0.4900223372941331,
+      "V2": 0.28088436310329745,
+      "V3": 0.1310888321427628,
+      "V4": 0.09800446745882661
+    },
+    "collapsed_columns": {
+      "V1": false,
+      "V2": false,
+      "V3": false,
+      "V4": true
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_se_012",
+        "ecommerce_se_004",
+        "ecommerce_se_008",
+        "ecommerce_se_011",
+        "ecommerce_se_015"
+      ],
+      "least_volatile": [
+        "ecommerce_se_018",
+        "ecommerce_se_005",
+        "ecommerce_se_009",
+        "ecommerce_se_002",
+        "ecommerce_se_003"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_se_012",
+          "ecommerce_se_004",
+          "ecommerce_se_018"
+        ],
+        "V2": [
+          "ecommerce_se_008",
+          "ecommerce_se_010",
+          "ecommerce_se_011"
+        ],
+        "V3": [
+          "ecommerce_se_017",
+          "ecommerce_se_015",
+          "ecommerce_se_007"
+        ],
+        "V4": [
+          "ecommerce_se_018",
+          "ecommerce_se_017",
+          "ecommerce_se_015"
+        ]
+      }
+    },
+    "params": {
+      "n": 14,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  },
+  "ecommerce::us": {
+    "weights": {
+      "V1": 0.6249999999992188,
+      "V2": 0.12499999999984378,
+      "V3": 0.12499999999984378,
+      "V4": 0.12499999999984378
+    },
+    "collapsed_columns": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": true
+    },
+    "correlation_damping": [],
+    "audit": {
+      "top_volatile": [
+        "ecommerce_us_021",
+        "ecommerce_us_029",
+        "ecommerce_us_023",
+        "ecommerce_us_027",
+        "ecommerce_us_026"
+      ],
+      "least_volatile": [
+        "ecommerce_us_015",
+        "ecommerce_us_011",
+        "ecommerce_us_001",
+        "ecommerce_us_020",
+        "ecommerce_us_019"
+      ],
+      "leaders": {
+        "V1": [
+          "ecommerce_us_021",
+          "ecommerce_us_029",
+          "ecommerce_us_023"
+        ],
+        "V2": [
+          "ecommerce_us_029",
+          "ecommerce_us_028",
+          "ecommerce_us_002"
+        ],
+        "V3": [
+          "ecommerce_us_008",
+          "ecommerce_us_027",
+          "ecommerce_us_026"
+        ],
+        "V4": [
+          "ecommerce_us_029",
+          "ecommerce_us_028",
+          "ecommerce_us_002"
+        ]
+      }
+    },
+    "params": {
+      "n": 28,
+      "k": 5,
+      "alpha_used": 0.5,
+      "lambda_v2": 0.6,
+      "gamma_shrink": 0.2,
+      "w_minmax": [
+        0.1,
+        0.5
+      ],
+      "eps_span": 0.05,
+      "corr_thresh": 0.8,
+      "corr_damp": 0.85,
+      "legal_cap": 0.2,
+      "measurable_override": 0.5,
+      "redundancy_sim_thresh": 0.9,
+      "redundancy_discount": 0.8
+    }
+  }
+}
