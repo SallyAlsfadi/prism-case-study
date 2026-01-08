@@ -1,0 +1,12 @@
+proposal_id,decision,member_ids,pick_one_id,edited_text_len
+merge_002,accept_merge,ecommerce_a_002|ecommerce_a_006,,3
+merge_001,accept_merge,ecommerce_lf_001|ecommerce_lf_002|ecommerce_lf_003|ecommerce_lf_004|ecommerce_lf_005,,3
+merge_002,accept_merge,ecommerce_mn_003|ecommerce_mn_008,,3
+merge_001,accept_merge,ecommerce_o_001|ecommerce_o_002,,3
+merge_015,accept_merge,ecommerce_o_024|ecommerce_o_026,,3
+merge_002,accept_merge,ecommerce_pe_002|ecommerce_pe_003,,3
+merge_010,accept_merge,ecommerce_pe_012|ecommerce_pe_013,,3
+merge_001,accept_merge,ecommerce_se_001|ecommerce_se_004,,3
+merge_011,accept_merge,ecommerce_se_013|ecommerce_se_014|ecommerce_se_015,,3
+merge_012,accept_merge,ecommerce_se_016|ecommerce_se_017,,3
+merge_005,accept_merge,ecommerce_us_016|ecommerce_us_024,,3
